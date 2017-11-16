@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+#title{
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+}
+
+p{
+  color: #35bbe0;
+  margin:30px;
+}
+
+hr{
+  width: 100px;
+  height: 4px;
+  margin-left: 3%;
+  background: #000;
+}
+.students >div{
+  margin: 50px;
+  float:left;
+}
+
+.photo-size{
+  width: 200px;
+  height: 250px;
+}
+
+.font-style{
+  color: #8e50c4;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  position: relative;
+  top:-60px;
+}
